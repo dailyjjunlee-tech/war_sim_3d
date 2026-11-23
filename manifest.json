@@ -1,0 +1,10 @@
+{
+  "name": "WAR-SIM 3D v5.0 : 2026 Global Coalition",
+  "short_name": "WAR-SIM 3D",
+  "description": "전 세계 197개국 3D 실사 지구본 · 다축 항로 · 다국적 참전 2026 현실 기반 전쟁 시뮬레이터",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#030711",
+  "theme_color": "#030711",
+  "orientation": "any"
+}
